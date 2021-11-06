@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationPermissionSample</string>
+
+
+    <!--Permission Messages-->
+    <string name="permission_location_rationale">In order to get the current location, we require the location permission to be granted.</string>
+</resources>
